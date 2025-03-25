@@ -1,0 +1,5 @@
+C:\Users\1DAW2425-10\Documents\AntonioHernandezGilabert_ExUD4-ED\unit-testing-using-nunit\PrimeService.Test\obj\Debug\net8.0\PrimeService.Test.csproj.AssemblyReference.cache
+C:\Users\1DAW2425-10\Documents\AntonioHernandezGilabert_ExUD4-ED\unit-testing-using-nunit\PrimeService.Test\obj\Debug\net8.0\PrimeService.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1DAW2425-10\Documents\AntonioHernandezGilabert_ExUD4-ED\unit-testing-using-nunit\PrimeService.Test\obj\Debug\net8.0\PrimeService.Test.AssemblyInfoInputs.cache
+C:\Users\1DAW2425-10\Documents\AntonioHernandezGilabert_ExUD4-ED\unit-testing-using-nunit\PrimeService.Test\obj\Debug\net8.0\PrimeService.Test.AssemblyInfo.cs
+C:\Users\1DAW2425-10\Documents\AntonioHernandezGilabert_ExUD4-ED\unit-testing-using-nunit\PrimeService.Test\obj\Debug\net8.0\PrimeService.Test.csproj.CoreCompileInputs.cache
